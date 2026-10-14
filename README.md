@@ -1,6 +1,7 @@
 # Olá, eu sou o Gabriel 👋
 
 **Analista de Dados | Desenvolvedor Back-End | Especialista em Automação de Processos**
+
 📍 São Paulo, Brasil · 💼 PwC Brasil (time de EMS) · 🎓 Universidade São Judas Tadeu
 
 Comecei em vendas e cheguei a dados e automação por resultado.
@@ -8,9 +9,10 @@ Hoje trabalho com automação de processos e tratamento de dados em escala corpo
 Acredito que velocidade de aprendizado importa tanto quanto experiência acumulada.
 
 ## 🛠️ Tecnologias
-**Dados:** Python · SQL · ETL e pipelines · Power BI
-**Back-end:** Node.js · Express · TypeScript · FastAPI · PostgreSQL · Docker
-**Cloud:** AWS
+
+- **Dados:** Python · SQL · ETL e pipelines · Power BI
+- **Back-end:** Node.js · Express · TypeScript · FastAPI · PostgreSQL · Docker
+- **Cloud:** AWS
 
 ## 🚀 Projetos em destaque
 - **[NutriSnap](https://github.com/gab-cod777/Nutri-app)**: app de alimentação e treino. Foto do prato → IA (CLIP) identifica os alimentos e estima calorias. API Node/Express, serviço Python/FastAPI e PostgreSQL.
